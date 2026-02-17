@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Frontend</h1>
+<p id="msg"></p>
+
+<script>
+fetch("http://backend:5000")
+  .then(res => res.text())
+  .then(data => document.getElementById("msg").innerText = data);
+</script>
+
+</body>
+</html>
+
