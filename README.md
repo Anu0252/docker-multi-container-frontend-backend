@@ -67,3 +67,14 @@ http://localhost:8080
 - How to rebuild and restart containers properly  
 
 
+## 📸 Screenshots
+
+### Folder Structure
+![folder-structure](screenshots/folder-structure.png)
+
+### Docker Images
+![docker-images](screenshots/docker-images.png)
+
+### Docker PS -a
+![docker-ps-a](screenshots/containers.png)
+
