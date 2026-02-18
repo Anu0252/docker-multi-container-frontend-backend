@@ -70,7 +70,7 @@ http://localhost:8080
 ## 📸 Screenshots
 
 ### Folder Structure
-![folder-structure](screenshots/folder-structure.png)
+![folder-structure](screenshots/Folder structure.png)
 
 ### Docker Images
 ![docker-images](screenshots/docker-images.png)
